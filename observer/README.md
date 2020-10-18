@@ -16,7 +16,7 @@ Used to monitor changes and publish notifications to registered/subscribed objec
 - One to many (1 to n) dependency. A single change in an object triggers the notification to n objects.
 - Encapsulate the subject object (source of the change, publish).
 
-## Exemples:
+## Examples:
 
 - Publication Broadcast:
 

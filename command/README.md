@@ -20,7 +20,7 @@ Information includes: method name, object owner of the method, parameter values.
 - allows requests to be saved in a queue
 - OO callbacks 
 
-## Exemples:
+## Examples:
 
 - Installation wizard: 
 
